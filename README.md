@@ -8,4 +8,4 @@ props
 carosole working
 creating galary 
 styled components
-css html, jsx and much more
+css html, jsx and much more!!!!!!
