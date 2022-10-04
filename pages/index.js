@@ -12,7 +12,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Pizza Restaurant in Newyork</title>
+        <title>Tour and travel website</title>
         <meta name="description" content="Tour And Travel Website" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
