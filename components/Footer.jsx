@@ -44,17 +44,18 @@ const Copyright = styled.span`
 const Footer = () => {
   return (
     <Container>
-      <Wrapper>
+       <Wrapper>
         <List>
           <ListItem>Contact</ListItem>
           <ListItem>Support</ListItem>
-          <ListItem>Guidance</ListItem>
-          <ListItem>Community</ListItem>
-        </List>
-        <Copyright>ⒸMuqadas</Copyright>
-      </Wrapper>
-    </Container>
-  );
+           <ListItem>Guidance</ListItem>
+           <ListItem>Community</ListItem>
+         </List>
+         <Copyright>ⒸMuqadas</Copyright>
+       </Wrapper>
+     </Container>
+  
+);
 };
 
 export default Footer;

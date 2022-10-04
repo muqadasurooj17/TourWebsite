@@ -5,13 +5,15 @@ import PizzaList from "../components/PizzaList";
 import styles from "../styles/Home.module.css";
 import Carosole from "../pages/Carosole";
 import Price from "./Price";
+
 import Contact from "./Contactagain";
+
 export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
         <title>Pizza Restaurant in Newyork</title>
-        <meta name="description" content="Best pizza shop in town" />
+        <meta name="description" content="Tour And Travel Website" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Featured/>
@@ -19,6 +21,7 @@ export default function Home() {
 <Carosole/>
 <Price/>
 <Contact/>
+
     </div>
   );
 }

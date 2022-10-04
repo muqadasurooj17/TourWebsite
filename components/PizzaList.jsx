@@ -14,7 +14,7 @@ const PizzaList = () => {
   
       <div className={styles.smcontainer}>
       <Image src="/images/a1.jpg" alt="" width="500" height="300" />
-      <h1 className={styles.title}>SPAN</h1>
+      <h1 className={styles.title}>SPAIN</h1>
       <div className={styles.desc}>
         Lorem ipsum dolor sit amet consectetur adipisicing elit.  
     </div></div>
